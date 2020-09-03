@@ -27,7 +27,9 @@ Updated 3 September 2020. Kian Hong Kock (kianhongkock@g.harvard.edu), Martha Bu
 
 10) The "rsID_Escores_sourcedata" directory contains the 8-mers and E-scores underlying the bar charts and boxplots for the individual TF-rsID examples depicted in Figure 6 and Supplementary Figure 6 in the manuscript.
 
-The following files are required for the analysis but NOT included in this directory due to space constraints; these are readily available from journal webpages / public databases and resources:
+### Files to download from journal website, public databases and resources ###
+
+The following files are required for the analysis but NOT included in this directory due to space constraints; these are readily available from a journal website, and  public databases and resources:
 
 1) GRCh38/hg38 data files by chromosomes - obtain the "chr<chr number>.fa.gz" files from http://hgdownload.soe.ucsc.edu/goldenPath/hg38/chromosomes/
 
